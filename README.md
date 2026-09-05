@@ -17,6 +17,7 @@ The project demonstrates CRUD operations, entity relationships, validation, exce
 - ✅ Request Validation
 - ⚠️ Global Exception Handling
 - 🚫 404 Not Found Handling
+- Spring AOP
 - 🌐 RESTful APIs
 - 🧪 API Testing using Postman
 - 🗄️ MySQL Database
